@@ -4,4 +4,4 @@ var playlist = {
 }
 
 funnction updatePlaylist() {
-  playlist ['BSB'] = 'BSB is Back' };
+  object.assign ({}, playlist {BSB : 'BSB is Back' };
