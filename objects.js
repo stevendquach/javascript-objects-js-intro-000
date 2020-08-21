@@ -10,6 +10,6 @@ function updatePlaylist (playlist, BSB , Life) {
 }
 
 function removeFromPlaylist(playlist, BSB) {
-  delete playlist.MCR
-  return playlist;
+  delete playlist.MCR ;
+  return playlist
 }
