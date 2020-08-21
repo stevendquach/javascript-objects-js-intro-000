@@ -4,7 +4,7 @@ var playlist = {
 }
 
 
-function updatePlaylist (playlist, 'BSB' , 'Life') {
-  playlist['BSB']= 'Life'
+function updatePlaylist (playlist, BSB , 'Life') {
+  playlist[BSB]= 'Life'
   return playlist
 }
