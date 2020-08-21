@@ -3,5 +3,5 @@ var playlist = {
   MCR : "I'm Ok"
 }
 
-funnction() updatePlaylist (playlist, BSB, BSB is Back) {
+funnction updatePlaylist(playlist, BSB, BSB is Back) {
   playlist ['BSB'] = 'BSB is Back' };
