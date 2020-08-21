@@ -3,5 +3,5 @@ var playlist = {
   MCR : 'Im Ok'
 }
 
-funnction updatePlaylist(playlist,) {
-  o
+funnction updatePlaylist(playlist) {
+  playlist['BSB'] = 'Back In'
