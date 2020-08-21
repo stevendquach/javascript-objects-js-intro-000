@@ -11,5 +11,5 @@ function updatePlaylist (playlist, BSB , Life) {
 
 function removeFromPlaylist(playlist, BSB) {
   delete playlist.BSB
-  return playlist
+  return playlist;
 }
