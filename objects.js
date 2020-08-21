@@ -9,7 +9,7 @@ function updatePlaylist (playlist, BSB , Life) {
   return playlist
 }
 
-function removeFromPlaylist(playlist, BSB) {
-  delete playlist[MCR]
+function removeFromPlaylist(playlist, BSB){
+  delete playlist.BSB
   return playlist
 }
