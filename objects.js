@@ -1,7 +1,7 @@
 var playlist = {
-  Prince : "Doves Cry",
-  MCR : "I'm Ok"
+  Prince : 'Doves Cry',
+  MCR : 'Im Ok'
 }
 
-funnction updatePlaylist() {
-  object.assign ({}, playlist {BSB : 'BSB is Back' };
+funnction updatePlaylist(playlist,) {
+  o
